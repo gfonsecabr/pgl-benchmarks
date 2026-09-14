@@ -19210,7 +19210,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19225,7 +19225,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19240,7 +19240,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19255,7 +19255,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19270,7 +19270,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19285,7 +19285,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19300,7 +19300,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19315,7 +19315,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19330,7 +19330,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19345,7 +19345,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19360,7 +19360,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19375,7 +19375,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19390,7 +19390,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19405,7 +19405,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19420,7 +19420,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19435,7 +19435,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19450,7 +19450,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19465,7 +19465,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19480,7 +19480,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19495,7 +19495,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19510,7 +19510,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19525,7 +19525,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19540,7 +19540,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19555,7 +19555,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19570,7 +19570,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19585,7 +19585,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19600,7 +19600,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19615,7 +19615,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19630,7 +19630,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19645,7 +19645,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19660,7 +19660,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19675,7 +19675,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19690,7 +19690,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19705,7 +19705,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19720,7 +19720,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19735,7 +19735,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19750,7 +19750,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19765,7 +19765,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19780,7 +19780,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19795,7 +19795,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19810,7 +19810,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19825,7 +19825,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19840,7 +19840,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19855,7 +19855,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19870,7 +19870,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19885,7 +19885,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19900,7 +19900,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19915,7 +19915,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19930,7 +19930,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19945,7 +19945,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19960,7 +19960,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19975,7 +19975,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -19990,7 +19990,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20005,7 +20005,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20020,7 +20020,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20035,7 +20035,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20050,7 +20050,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20065,7 +20065,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20080,7 +20080,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20095,7 +20095,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20110,7 +20110,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20125,7 +20125,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20140,7 +20140,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -20155,7 +20155,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21130,7 +21130,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21145,7 +21145,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21160,7 +21160,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21175,7 +21175,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21190,7 +21190,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21205,7 +21205,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21220,7 +21220,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21235,7 +21235,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21250,7 +21250,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21265,7 +21265,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21280,7 +21280,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21295,7 +21295,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21310,7 +21310,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21325,7 +21325,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21340,7 +21340,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21355,7 +21355,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21370,7 +21370,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21385,7 +21385,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21400,7 +21400,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21415,7 +21415,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21430,7 +21430,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21445,7 +21445,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21460,7 +21460,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21475,7 +21475,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21490,7 +21490,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21505,7 +21505,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21520,7 +21520,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21535,7 +21535,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21550,7 +21550,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21565,7 +21565,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21580,7 +21580,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21595,7 +21595,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21610,7 +21610,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21625,7 +21625,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21640,7 +21640,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21655,7 +21655,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21670,7 +21670,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21685,7 +21685,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21700,7 +21700,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21715,7 +21715,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21730,7 +21730,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21745,7 +21745,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21760,7 +21760,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21775,7 +21775,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21790,7 +21790,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21805,7 +21805,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21820,7 +21820,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21835,7 +21835,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21850,7 +21850,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21865,7 +21865,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21880,7 +21880,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21895,7 +21895,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21910,7 +21910,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21925,7 +21925,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21940,7 +21940,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21955,7 +21955,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21970,7 +21970,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -21985,7 +21985,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22000,7 +22000,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22015,7 +22015,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22030,7 +22030,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22045,7 +22045,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22060,7 +22060,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -22075,7 +22075,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPICK",
@@ -23050,7 +23050,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23065,7 +23065,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23080,7 +23080,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23095,7 +23095,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23110,7 +23110,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23125,7 +23125,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23140,7 +23140,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23155,7 +23155,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23170,7 +23170,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23185,7 +23185,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23200,7 +23200,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23215,7 +23215,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23230,7 +23230,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23245,7 +23245,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23260,7 +23260,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23275,7 +23275,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23290,7 +23290,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23305,7 +23305,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23320,7 +23320,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23335,7 +23335,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23350,7 +23350,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23365,7 +23365,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23380,7 +23380,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23395,7 +23395,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23410,7 +23410,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23425,7 +23425,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23440,7 +23440,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23455,7 +23455,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23470,7 +23470,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23485,7 +23485,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23500,7 +23500,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23515,7 +23515,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23530,7 +23530,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23545,7 +23545,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23560,7 +23560,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23575,7 +23575,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23590,7 +23590,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23605,7 +23605,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23620,7 +23620,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23635,7 +23635,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23650,7 +23650,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23665,7 +23665,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23680,7 +23680,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23695,7 +23695,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23710,7 +23710,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23725,7 +23725,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23740,7 +23740,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23755,7 +23755,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23770,7 +23770,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23785,7 +23785,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23800,7 +23800,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23815,7 +23815,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23830,7 +23830,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23845,7 +23845,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23860,7 +23860,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23875,7 +23875,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23890,7 +23890,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23905,7 +23905,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23920,7 +23920,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23935,7 +23935,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23950,7 +23950,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23965,7 +23965,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23980,7 +23980,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -23995,7 +23995,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "small segments",
+      "dataset": "small",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -24970,7 +24970,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -24985,7 +24985,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25000,7 +25000,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25015,7 +25015,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25030,7 +25030,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25045,7 +25045,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25060,7 +25060,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25075,7 +25075,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25090,7 +25090,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25105,7 +25105,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25120,7 +25120,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25135,7 +25135,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25150,7 +25150,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25165,7 +25165,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25180,7 +25180,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25195,7 +25195,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25210,7 +25210,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25225,7 +25225,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25240,7 +25240,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25255,7 +25255,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25270,7 +25270,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25285,7 +25285,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25300,7 +25300,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25315,7 +25315,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25330,7 +25330,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25345,7 +25345,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25360,7 +25360,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25375,7 +25375,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25390,7 +25390,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25405,7 +25405,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25420,7 +25420,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25435,7 +25435,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25450,7 +25450,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25465,7 +25465,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25480,7 +25480,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25495,7 +25495,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25510,7 +25510,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25525,7 +25525,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25540,7 +25540,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25555,7 +25555,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25570,7 +25570,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25585,7 +25585,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25600,7 +25600,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25615,7 +25615,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25630,7 +25630,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25645,7 +25645,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25660,7 +25660,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25675,7 +25675,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25690,7 +25690,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25705,7 +25705,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25720,7 +25720,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25735,7 +25735,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25750,7 +25750,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25765,7 +25765,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25780,7 +25780,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25795,7 +25795,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25810,7 +25810,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25825,7 +25825,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25840,7 +25840,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25855,7 +25855,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25870,7 +25870,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25885,7 +25885,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25900,7 +25900,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "intersections",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
@@ -25915,7 +25915,7 @@
     },
     {
       "category": "Segment intersections",
-      "dataset": "large segments",
+      "dataset": "large",
       "problem": "crossings",
       "algorithm": "CGAL::compute_intersection_points",
       "number": "EPECK",
